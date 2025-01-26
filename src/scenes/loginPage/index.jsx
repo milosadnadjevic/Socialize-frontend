@@ -25,7 +25,7 @@ const LoginPage = () => {
         backgroundColor={theme.palette.background.alt}
       >
         <Typography fontWeight="500" variant="h5" sx={{ mb: "1.5rem" }}>
-          Welcome to Socialize, the Social Media for Sociopaths!
+          Welcome to Socialize, the Anti Social Social App!
         </Typography>
         <Form />
       </Box>
